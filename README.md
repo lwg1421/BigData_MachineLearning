@@ -72,3 +72,13 @@
   - SKlearn, SparkML, Tensorflow, Keras 등
 - Commution/Reporting/Building Data Product
   - Django, Seaborn,, Flask 등
+
+## 분석에 특화된 라이브러리
+### Numpy
+- 고성능 과학계산을 위한 데이터 분석 라이브러리
+- 빠르고 효율적인 벡터 산술연산을 제공하는 다차원배열 제공(ndarray 클래스)
+- 반복문 없이 전체 데이터 배열 연산이 가능한 표준 수학 함수(sum(),mean() 등)
+
+### Pandas
+- 행과 열로 구성된 표 형식의 데이터를 지원하는 라이브러리
+  
